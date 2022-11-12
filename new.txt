@@ -2,3 +2,4 @@ Hello and Welcome
 File in process
 File finished
 File is under maintainance
+File checked
